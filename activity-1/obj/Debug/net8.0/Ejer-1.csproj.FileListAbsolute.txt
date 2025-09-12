@@ -1,0 +1,14 @@
+/home/csharp/Documentos/JB/Ejer-1/bin/Debug/net8.0/Ejer-1
+/home/csharp/Documentos/JB/Ejer-1/bin/Debug/net8.0/Ejer-1.deps.json
+/home/csharp/Documentos/JB/Ejer-1/bin/Debug/net8.0/Ejer-1.runtimeconfig.json
+/home/csharp/Documentos/JB/Ejer-1/bin/Debug/net8.0/Ejer-1.dll
+/home/csharp/Documentos/JB/Ejer-1/bin/Debug/net8.0/Ejer-1.pdb
+/home/csharp/Documentos/JB/Ejer-1/obj/Debug/net8.0/Ejer-1.GeneratedMSBuildEditorConfig.editorconfig
+/home/csharp/Documentos/JB/Ejer-1/obj/Debug/net8.0/Ejer-1.AssemblyInfoInputs.cache
+/home/csharp/Documentos/JB/Ejer-1/obj/Debug/net8.0/Ejer-1.AssemblyInfo.cs
+/home/csharp/Documentos/JB/Ejer-1/obj/Debug/net8.0/Ejer-1.csproj.CoreCompileInputs.cache
+/home/csharp/Documentos/JB/Ejer-1/obj/Debug/net8.0/Ejer-1.dll
+/home/csharp/Documentos/JB/Ejer-1/obj/Debug/net8.0/refint/Ejer-1.dll
+/home/csharp/Documentos/JB/Ejer-1/obj/Debug/net8.0/Ejer-1.pdb
+/home/csharp/Documentos/JB/Ejer-1/obj/Debug/net8.0/Ejer-1.genruntimeconfig.cache
+/home/csharp/Documentos/JB/Ejer-1/obj/Debug/net8.0/ref/Ejer-1.dll
