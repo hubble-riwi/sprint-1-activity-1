@@ -1,0 +1,14 @@
+/home/csharp/Documentos/Cine/bin/Debug/net8.0/Cine
+/home/csharp/Documentos/Cine/bin/Debug/net8.0/Cine.deps.json
+/home/csharp/Documentos/Cine/bin/Debug/net8.0/Cine.runtimeconfig.json
+/home/csharp/Documentos/Cine/bin/Debug/net8.0/Cine.dll
+/home/csharp/Documentos/Cine/bin/Debug/net8.0/Cine.pdb
+/home/csharp/Documentos/Cine/obj/Debug/net8.0/Cine.GeneratedMSBuildEditorConfig.editorconfig
+/home/csharp/Documentos/Cine/obj/Debug/net8.0/Cine.AssemblyInfoInputs.cache
+/home/csharp/Documentos/Cine/obj/Debug/net8.0/Cine.AssemblyInfo.cs
+/home/csharp/Documentos/Cine/obj/Debug/net8.0/Cine.csproj.CoreCompileInputs.cache
+/home/csharp/Documentos/Cine/obj/Debug/net8.0/Cine.dll
+/home/csharp/Documentos/Cine/obj/Debug/net8.0/refint/Cine.dll
+/home/csharp/Documentos/Cine/obj/Debug/net8.0/Cine.pdb
+/home/csharp/Documentos/Cine/obj/Debug/net8.0/Cine.genruntimeconfig.cache
+/home/csharp/Documentos/Cine/obj/Debug/net8.0/ref/Cine.dll
