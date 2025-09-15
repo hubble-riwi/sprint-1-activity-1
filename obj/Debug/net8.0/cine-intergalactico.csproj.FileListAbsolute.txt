@@ -1,0 +1,15 @@
+/home/csharp/Documentos/cine-intergalactico/bin/Debug/net8.0/Cine intergaláctico
+/home/csharp/Documentos/cine-intergalactico/bin/Debug/net8.0/Cine intergaláctico.deps.json
+/home/csharp/Documentos/cine-intergalactico/bin/Debug/net8.0/Cine intergaláctico.runtimeconfig.json
+/home/csharp/Documentos/cine-intergalactico/bin/Debug/net8.0/Cine intergaláctico.dll
+/home/csharp/Documentos/cine-intergalactico/bin/Debug/net8.0/Cine intergaláctico.pdb
+/home/csharp/Documentos/cine-intergalactico/obj/Debug/net8.0/cine-intergalactico.GeneratedMSBuildEditorConfig.editorconfig
+/home/csharp/Documentos/cine-intergalactico/obj/Debug/net8.0/cine-intergalactico.AssemblyInfoInputs.cache
+/home/csharp/Documentos/cine-intergalactico/obj/Debug/net8.0/cine-intergalactico.AssemblyInfo.cs
+/home/csharp/Documentos/cine-intergalactico/obj/Debug/net8.0/cine-intergalactico.csproj.CoreCompileInputs.cache
+/home/csharp/Documentos/cine-intergalactico/obj/Debug/net8.0/cine-intergalactico.sourcelink.json
+/home/csharp/Documentos/cine-intergalactico/obj/Debug/net8.0/Cine intergaláctico.dll
+/home/csharp/Documentos/cine-intergalactico/obj/Debug/net8.0/refint/Cine intergaláctico.dll
+/home/csharp/Documentos/cine-intergalactico/obj/Debug/net8.0/Cine intergaláctico.pdb
+/home/csharp/Documentos/cine-intergalactico/obj/Debug/net8.0/cine-intergalactico.genruntimeconfig.cache
+/home/csharp/Documentos/cine-intergalactico/obj/Debug/net8.0/ref/Cine intergaláctico.dll
